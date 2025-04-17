@@ -1,2 +1,2 @@
-# Decorator-pattern-coffee-shop
-Decorator-pattern-coffee-shop
+# Decorator-design-pattern-coffee-shop
+Decorator-design-pattern-coffee-shop
